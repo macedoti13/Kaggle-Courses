@@ -1,0 +1,1 @@
+Kaggle offers a bunch of free courses. Every course contains multiple notebooks, each one with multiple exercises on each topic. This repo contains every notebook for every kaggle course i've take. It will also be updated every time I complete a new notebook. 
